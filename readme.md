@@ -1,4 +1,4 @@
-#PCB Design Showcase
+# PCB Design Showcase
 
 This is a collection of the PCBs I have designed for various clients using KiCAD.
 - I have designed PCBs with Altium, but KiCAD is just easier
