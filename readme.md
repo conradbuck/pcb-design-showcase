@@ -1,7 +1,7 @@
 # PCB Design Showcase
 
 This is a collection of the PCBs I have designed for various clients using KiCAD.
-- I have designed PCBs with Altium, but KiCAD is just easier
+- I have designed PCBs with Altium, but mostly work with KiCAD presently
 
 These PCBs help my clients make the first prototype of their product which they can then present to investors to help explain their product.
 
